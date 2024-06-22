@@ -10,7 +10,7 @@ This project aims to optimize neural networks for skin cancer detection by lever
 ### 1. Singular Value Decomposition (SVD) for Image Compression
 
 #### Algorithm
-1. **Convert Images to Grayscale**: Images are converted to grayscale to simplify the processing and reduce computational complexity.
+1. **Load Image**: Load the Image
    
 2. **Apply SVD**: SVD is applied to the images to decompose them into singular vectors and singular values.
 
